@@ -1,0 +1,212 @@
+[
+  {
+    "qid": "hp_hard_001",
+    "difficulty": "hard",
+    "question": "Which scientist proposed the theory whose key mechanism was independently conceived by the naturalist who traveled on HMS Beagle?",
+    "gold_answer": "Alfred Russel Wallace",
+    "context": [
+      {
+        "title": "Charles Darwin",
+        "text": "Charles Darwin was an English naturalist who traveled on HMS Beagle. He independently conceived the mechanism of natural selection."
+      },
+      {
+        "title": "Natural selection",
+        "text": "Natural selection is the key mechanism of the theory of evolution."
+      },
+      {
+        "title": "Theory of evolution",
+        "text": "The theory of evolution by natural selection was independently proposed by Alfred Russel Wallace and Charles Darwin."
+      }
+    ],
+    "reason_hard": "Requires linking a voyage clue (HMS Beagle) to Darwin, then abstracting from mechanism to theory, then recovering the co-proposer rather than the more obvious Darwin."
+  },
+  {
+    "qid": "hp_hard_002",
+    "difficulty": "hard",
+    "question": "What empire ruled the city where the Hagia Sophia was built before it later became Istanbul?",
+    "gold_answer": "Byzantine Empire",
+    "context": [
+      {
+        "title": "Hagia Sophia",
+        "text": "Hagia Sophia was built in Constantinople."
+      },
+      {
+        "title": "Constantinople",
+        "text": "Constantinople later became known as Istanbul."
+      },
+      {
+        "title": "Byzantine Empire",
+        "text": "Constantinople was the capital of the Byzantine Empire."
+      }
+    ],
+    "reason_hard": "Uses a historical name change and requires resolving the earlier name of Istanbul before identifying the ruling empire."
+  },
+  {
+    "qid": "hp_hard_003",
+    "difficulty": "hard",
+    "question": "Which language family includes the language spoken by the author of Don Quixote?",
+    "gold_answer": "Romance",
+    "context": [
+      {
+        "title": "Don Quixote",
+        "text": "Don Quixote was written by Miguel de Cervantes."
+      },
+      {
+        "title": "Miguel de Cervantes",
+        "text": "Miguel de Cervantes was a Spanish writer."
+      },
+      {
+        "title": "Spanish language",
+        "text": "Spanish is a Romance language."
+      }
+    ],
+    "reason_hard": "Entity chain is simple, but the final answer is a language family rather than the language itself, which often triggers shallow-model mistakes."
+  },
+  {
+    "qid": "hp_hard_004",
+    "difficulty": "hard",
+    "question": "What mountain range contains the volcano overlooking the bay where Naples is located?",
+    "gold_answer": "Apennines",
+    "context": [
+      {
+        "title": "Naples",
+        "text": "Naples is located on the Bay of Naples."
+      },
+      {
+        "title": "Bay of Naples",
+        "text": "Mount Vesuvius overlooks the Bay of Naples."
+      },
+      {
+        "title": "Mount Vesuvius",
+        "text": "Mount Vesuvius is part of the Apennine mountain system."
+      }
+    ],
+    "reason_hard": "Requires chaining city → bay → volcano → mountain range, with the intermediate geographic relation easy to lose."
+  },
+  {
+    "qid": "hp_hard_005",
+    "difficulty": "hard",
+    "question": "Which university employed the physicist who developed the equations unified by the theory later extended by general relativity's creator?",
+    "gold_answer": "University of Cambridge",
+    "context": [
+      {
+        "title": "James Clerk Maxwell",
+        "text": "James Clerk Maxwell developed Maxwell's equations and was a professor at the University of Cambridge."
+      },
+      {
+        "title": "Electromagnetism",
+        "text": "Maxwell's equations unified electricity and magnetism into the theory of electromagnetism."
+      },
+      {
+        "title": "Albert Einstein",
+        "text": "Albert Einstein, creator of general relativity, extended important parts of classical physics through relativity."
+      }
+    ],
+    "reason_hard": "The wording is deliberately dense and distracts with Einstein; the correct path still runs through Maxwell to his university."
+  },
+  {
+    "qid": "hp_hard_006",
+    "difficulty": "hard",
+    "question": "What sea borders the country whose ancient rock-cut city is Petra?",
+    "gold_answer": "Dead Sea",
+    "context": [
+      {
+        "title": "Petra",
+        "text": "Petra is an ancient rock-cut city in Jordan."
+      },
+      {
+        "title": "Jordan",
+        "text": "Jordan borders the Dead Sea to the west."
+      },
+      {
+        "title": "Dead Sea",
+        "text": "The Dead Sea is a salt lake bordered by Jordan and Israel."
+      }
+    ],
+    "reason_hard": "This looks familiar but remains challenging because the surface form hides the country and asks for a bordering body of water, not the location itself."
+  },
+  {
+    "qid": "hp_hard_007",
+    "difficulty": "hard",
+    "question": "Which ocean borders the nation whose capital city lies near Machu Picchu's country of origin?",
+    "gold_answer": "Pacific Ocean",
+    "context": [
+      {
+        "title": "Machu Picchu",
+        "text": "Machu Picchu is located in Peru."
+      },
+      {
+        "title": "Peru",
+        "text": "The capital city of Peru is Lima."
+      },
+      {
+        "title": "Pacific Ocean",
+        "text": "Peru borders the Pacific Ocean."
+      }
+    ],
+    "reason_hard": "The question paraphrases Peru indirectly through Machu Picchu and capital-city wording, which increases indirection for smaller models."
+  },
+  {
+    "qid": "hp_hard_008",
+    "difficulty": "hard",
+    "question": "Which instrument was mainly played by the composer of the set of concertos that includes 'Spring' and 'Winter'?",
+    "gold_answer": "violin",
+    "context": [
+      {
+        "title": "The Four Seasons",
+        "text": "The Four Seasons is a set of concertos that includes 'Spring' and 'Winter'."
+      },
+      {
+        "title": "Antonio Vivaldi",
+        "text": "Antonio Vivaldi composed The Four Seasons and was a virtuoso violinist."
+      },
+      {
+        "title": "Violin",
+        "text": "The violin is a bowed string instrument."
+      }
+    ],
+    "reason_hard": "Uses named subparts of a work instead of the work title in the question, making retrieval weaker for compact models."
+  },
+  {
+    "qid": "hp_hard_009",
+    "difficulty": "hard",
+    "question": "What river runs through the capital of the country where the Eiffel Tower stands?",
+    "gold_answer": "River Seine",
+    "context": [
+      {
+        "title": "Eiffel Tower",
+        "text": "The Eiffel Tower is located in France."
+      },
+      {
+        "title": "France",
+        "text": "The capital of France is Paris."
+      },
+      {
+        "title": "Paris",
+        "text": "Paris is traversed by the River Seine."
+      }
+    ],
+    "reason_hard": "Requires a three-hop geographic chain with landmark → country → capital → river, which is harder than direct factual lookup."
+  },
+  {
+    "qid": "hp_hard_010",
+    "difficulty": "hard",
+    "question": "Which religion was followed by the emperor who built the amphitheater whose city is also home to the Pantheon?",
+    "gold_answer": "Roman polytheism",
+    "context": [
+      {
+        "title": "Colosseum",
+        "text": "The Colosseum is an amphitheater in Rome commissioned by Emperor Vespasian."
+      },
+      {
+        "title": "Pantheon",
+        "text": "The Pantheon is also located in Rome."
+      },
+      {
+        "title": "Vespasian",
+        "text": "Vespasian was a Roman emperor who followed Roman polytheism."
+      }
+    ],
+    "reason_hard": "The city clue and monument clue create distractors; the answer is a belief system associated with the emperor, not a place or person."
+  }
+]

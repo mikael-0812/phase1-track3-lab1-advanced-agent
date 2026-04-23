@@ -14,12 +14,24 @@ class QAExample(BaseModel):
     context: list[ContextChunk]
 
 class JudgeResult(BaseModel):
-    # TODO: Học viên định nghĩa các trường cần thiết cho kết quả đánh giá (score, reason, ...)
-    pass
+    score: Literal[0, 1]
+    reason: str
+    missing_evidence: list[str] = Field(default_factory=list)
+    spurious_claims: list[str] = Field(default_factory=list)
 
 class ReflectionEntry(BaseModel):
-    # TODO: Học viên định nghĩa các trường cần thiết cho một mục reflection (attempt_id, lesson, strategy, ...)
-    pass
+    attempt_id: int
+    failure_reason: str
+    lesson: str
+    next_strategy: str
+
+class CallMetrics(BaseModel):
+    stage: Literal["actor", "evaluator", "reflector"]
+    prompt_tokens: int = 0
+    completion_tokens: int = 0
+    total_tokens: int = 0
+    latency_ms: int = 0
+    token_source: Literal["api_usage", "estimated"] = "estimated"
 
 class AttemptTrace(BaseModel):
     attempt_id: int
@@ -28,7 +40,11 @@ class AttemptTrace(BaseModel):
     reason: str
     reflection: Optional[ReflectionEntry] = None
     token_estimate: int = 0
+    prompt_tokens: int = 0
+    completion_tokens: int = 0
     latency_ms: int = 0
+    token_source: Literal["api_usage", "estimated", "mixed"] = "estimated"
+    call_metrics: list[CallMetrics] = Field(default_factory=list)
 
 class RunRecord(BaseModel):
     qid: str
@@ -39,7 +55,10 @@ class RunRecord(BaseModel):
     is_correct: bool
     attempts: int
     token_estimate: int
+    prompt_tokens: int = 0
+    completion_tokens: int = 0
     latency_ms: int
+    token_source: Literal["api_usage", "estimated", "mixed"] = "estimated"
     failure_mode: Literal["none", "entity_drift", "incomplete_multi_hop", "wrong_final_answer", "looping", "reflection_overfit"]
     reflections: list[ReflectionEntry] = Field(default_factory=list)
     traces: list[AttemptTrace] = Field(default_factory=list)

@@ -11,9 +11,31 @@ def normalize_answer(text: str) -> str:
     text = re.sub(r"\s+", " ", text)
     return text
 
+def dataset_paths(path: str | Path) -> list[Path]:
+    if isinstance(path, Path):
+        return [path]
+    return [Path(part.strip()) for part in path.split(",") if part.strip()]
+
+
+def dataset_label(path: str | Path) -> str:
+    parts = dataset_paths(path)
+    if len(parts) == 1:
+        return parts[0].name
+    return "+".join(part.stem for part in parts) + ".json"
+
+
 def load_dataset(path: str | Path) -> list[QAExample]:
-    raw = json.loads(Path(path).read_text(encoding="utf-8"))
-    return [QAExample.model_validate(item) for item in raw]
+    rows: list[QAExample] = []
+    seen_qids: set[str] = set()
+    for dataset_path in dataset_paths(path):
+        raw = json.loads(dataset_path.read_text(encoding="utf-8"))
+        for item in raw:
+            example = QAExample.model_validate(item)
+            if example.qid in seen_qids:
+                raise ValueError(f"Duplicate qid found while loading datasets: {example.qid}")
+            seen_qids.add(example.qid)
+            rows.append(example)
+    return rows
 
 def save_jsonl(path: str | Path, records: Iterable[RunRecord]) -> None:
     path = Path(path)

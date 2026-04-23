@@ -1,0 +1,34 @@
+[
+  {
+    "qid": "5a879ab05542996e4f30887e",
+    "difficulty": "medium",
+    "question": "The Oberoi family is part of a hotel company that has a head office in what city?",
+    "gold_answer": "Delhi",
+    "context": [
+      {
+        "title": "Oberoi family",
+        "text": "The Oberoi family is associated with The Oberoi Group, a major hotel company."
+      },
+      {
+        "title": "The Oberoi Group",
+        "text": "The Oberoi Group is a hotel company whose head office is in Delhi."
+      }
+    ]
+  },
+  {
+    "qid": "5a82171f5542990a1d231f4a",
+    "difficulty": "medium",
+    "question": "What nationality was James Henry Miller's wife?",
+    "gold_answer": "American",
+    "context": [
+      {
+        "title": "Ewan MacColl",
+        "text": "Ewan MacColl was born as James Henry Miller and was married to Peggy Seeger."
+      },
+      {
+        "title": "Peggy Seeger",
+        "text": "Peggy Seeger is an American folk singer."
+      }
+    ]
+  }
+]

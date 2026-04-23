@@ -1,0 +1,1652 @@
+[
+  {
+    "qid": "hp1",
+    "difficulty": "easy",
+    "question": "Which capital city belongs to the country associated with Albert Einstein, who is known for the theory of relativity?",
+    "gold_answer": "Berlin",
+    "context": [
+      {
+        "title": "Albert Einstein",
+        "text": "Albert Einstein is associated with Germany and is known for the theory of relativity."
+      },
+      {
+        "title": "Germany",
+        "text": "The capital city of Germany is Berlin."
+      }
+    ]
+  },
+  {
+    "qid": "hp2",
+    "difficulty": "easy",
+    "question": "What country has Warsaw as its capital, the country associated with Marie Curie, who is known for radioactivity?",
+    "gold_answer": "Poland",
+    "context": [
+      {
+        "title": "Marie Curie",
+        "text": "Marie Curie is associated with Poland and is known for radioactivity."
+      },
+      {
+        "title": "Warsaw",
+        "text": "Warsaw is the capital city of Poland."
+      }
+    ]
+  },
+  {
+    "qid": "hp3",
+    "difficulty": "medium",
+    "question": "What river flows through the capital of the country associated with Leonardo da Vinci, who is known for Mona Lisa?",
+    "gold_answer": "Tiber",
+    "context": [
+      {
+        "title": "Leonardo da Vinci",
+        "text": "Leonardo da Vinci is associated with Italy and is known for Mona Lisa."
+      },
+      {
+        "title": "Rome",
+        "text": "Rome is the capital city of Italy and is located on the Tiber."
+      }
+    ]
+  },
+  {
+    "qid": "hp4",
+    "difficulty": "easy",
+    "question": "Which capital city belongs to the country associated with William Shakespeare, who is known for Hamlet?",
+    "gold_answer": "London",
+    "context": [
+      {
+        "title": "William Shakespeare",
+        "text": "William Shakespeare is associated with England and is known for Hamlet."
+      },
+      {
+        "title": "England",
+        "text": "The capital city of England is London."
+      }
+    ]
+  },
+  {
+    "qid": "hp5",
+    "difficulty": "medium",
+    "question": "What country has Madrid as its capital, the country associated with Pablo Picasso, who is known for Guernica?",
+    "gold_answer": "Spain",
+    "context": [
+      {
+        "title": "Pablo Picasso",
+        "text": "Pablo Picasso is associated with Spain and is known for Guernica."
+      },
+      {
+        "title": "Madrid",
+        "text": "Madrid is the capital city of Spain."
+      }
+    ]
+  },
+  {
+    "qid": "hp6",
+    "difficulty": "medium",
+    "question": "What river flows through the capital of the country associated with Ludwig van Beethoven, who is known for Symphony No. 9?",
+    "gold_answer": "Spree",
+    "context": [
+      {
+        "title": "Ludwig van Beethoven",
+        "text": "Ludwig van Beethoven is associated with Germany and is known for Symphony No. 9."
+      },
+      {
+        "title": "Berlin",
+        "text": "Berlin is the capital city of Germany and is located on the Spree."
+      }
+    ]
+  },
+  {
+    "qid": "hp7",
+    "difficulty": "easy",
+    "question": "Which capital city belongs to the country associated with Wolfgang Amadeus Mozart, who is known for The Magic Flute?",
+    "gold_answer": "Vienna",
+    "context": [
+      {
+        "title": "Wolfgang Amadeus Mozart",
+        "text": "Wolfgang Amadeus Mozart is associated with Austria and is known for The Magic Flute."
+      },
+      {
+        "title": "Austria",
+        "text": "The capital city of Austria is Vienna."
+      }
+    ]
+  },
+  {
+    "qid": "hp8",
+    "difficulty": "medium",
+    "question": "What country has London as its capital, the country associated with Charles Darwin, who is known for the theory of evolution?",
+    "gold_answer": "England",
+    "context": [
+      {
+        "title": "Charles Darwin",
+        "text": "Charles Darwin is associated with England and is known for the theory of evolution."
+      },
+      {
+        "title": "London",
+        "text": "London is the capital city of England."
+      }
+    ]
+  },
+  {
+    "qid": "hp9",
+    "difficulty": "hard",
+    "question": "What river flows through the capital of the country associated with Nikola Tesla, who is known for alternating current?",
+    "gold_answer": "Sava",
+    "context": [
+      {
+        "title": "Nikola Tesla",
+        "text": "Nikola Tesla is associated with Croatia and is known for alternating current."
+      },
+      {
+        "title": "Zagreb",
+        "text": "Zagreb is the capital city of Croatia and is located on the Sava."
+      }
+    ]
+  },
+  {
+    "qid": "hp10",
+    "difficulty": "medium",
+    "question": "Which capital city belongs to the country associated with Galileo Galilei, who is known for the telescope?",
+    "gold_answer": "Rome",
+    "context": [
+      {
+        "title": "Galileo Galilei",
+        "text": "Galileo Galilei is associated with Italy and is known for the telescope."
+      },
+      {
+        "title": "Italy",
+        "text": "The capital city of Italy is Rome."
+      }
+    ]
+  },
+  {
+    "qid": "hp11",
+    "difficulty": "hard",
+    "question": "What country has Berlin as its capital, the country associated with Johannes Kepler, who is known for laws of planetary motion?",
+    "gold_answer": "Germany",
+    "context": [
+      {
+        "title": "Johannes Kepler",
+        "text": "Johannes Kepler is associated with Germany and is known for laws of planetary motion."
+      },
+      {
+        "title": "Berlin",
+        "text": "Berlin is the capital city of Germany."
+      }
+    ]
+  },
+  {
+    "qid": "hp12",
+    "difficulty": "medium",
+    "question": "What river flows through the capital of the country associated with Gregor Mendel, who is known for the laws of inheritance?",
+    "gold_answer": "Vltava",
+    "context": [
+      {
+        "title": "Gregor Mendel",
+        "text": "Gregor Mendel is associated with Czech Republic and is known for the laws of inheritance."
+      },
+      {
+        "title": "Prague",
+        "text": "Prague is the capital city of Czech Republic and is located on the Vltava."
+      }
+    ]
+  },
+  {
+    "qid": "hp13",
+    "difficulty": "easy",
+    "question": "Which capital city belongs to the country associated with Louis Pasteur, who is known for pasteurization?",
+    "gold_answer": "Paris",
+    "context": [
+      {
+        "title": "Louis Pasteur",
+        "text": "Louis Pasteur is associated with France and is known for pasteurization."
+      },
+      {
+        "title": "France",
+        "text": "The capital city of France is Paris."
+      }
+    ]
+  },
+  {
+    "qid": "hp14",
+    "difficulty": "easy",
+    "question": "What country has Edinburgh as its capital, the country associated with Alexander Fleming, who is known for penicillin?",
+    "gold_answer": "Scotland",
+    "context": [
+      {
+        "title": "Alexander Fleming",
+        "text": "Alexander Fleming is associated with Scotland and is known for penicillin."
+      },
+      {
+        "title": "Edinburgh",
+        "text": "Edinburgh is the capital city of Scotland."
+      }
+    ]
+  },
+  {
+    "qid": "hp15",
+    "difficulty": "hard",
+    "question": "What river flows through the capital of the country associated with Rosalind Franklin, who is known for X-ray diffraction images of DNA?",
+    "gold_answer": "Thames",
+    "context": [
+      {
+        "title": "Rosalind Franklin",
+        "text": "Rosalind Franklin is associated with England and is known for X-ray diffraction images of DNA."
+      },
+      {
+        "title": "London",
+        "text": "London is the capital city of England and is located on the Thames."
+      }
+    ]
+  },
+  {
+    "qid": "hp16",
+    "difficulty": "medium",
+    "question": "Which capital city belongs to the country associated with Niels Bohr, who is known for the Bohr model?",
+    "gold_answer": "Copenhagen",
+    "context": [
+      {
+        "title": "Niels Bohr",
+        "text": "Niels Bohr is associated with Denmark and is known for the Bohr model."
+      },
+      {
+        "title": "Denmark",
+        "text": "The capital city of Denmark is Copenhagen."
+      }
+    ]
+  },
+  {
+    "qid": "hp17",
+    "difficulty": "easy",
+    "question": "What country has Moscow as its capital, the country associated with Dmitri Mendeleev, who is known for the periodic table?",
+    "gold_answer": "Russia",
+    "context": [
+      {
+        "title": "Dmitri Mendeleev",
+        "text": "Dmitri Mendeleev is associated with Russia and is known for the periodic table."
+      },
+      {
+        "title": "Moscow",
+        "text": "Moscow is the capital city of Russia."
+      }
+    ]
+  },
+  {
+    "qid": "hp18",
+    "difficulty": "medium",
+    "question": "What river flows through the capital of the country associated with Carl Linnaeus, who is known for binomial nomenclature?",
+    "gold_answer": "Malaren",
+    "context": [
+      {
+        "title": "Carl Linnaeus",
+        "text": "Carl Linnaeus is associated with Sweden and is known for binomial nomenclature."
+      },
+      {
+        "title": "Stockholm",
+        "text": "Stockholm is the capital city of Sweden and is located on the Malaren."
+      }
+    ]
+  },
+    {
+    "qid": "5a879ab05542996e4f30887e",
+    "difficulty": "medium",
+    "question": "The Oberoi family is part of a hotel company that has a head office in what city?",
+    "gold_answer": "Delhi",
+    "context": [
+      {
+        "title": "Oberoi family",
+        "text": "The Oberoi family is associated with The Oberoi Group, a major hotel company."
+      },
+      {
+        "title": "The Oberoi Group",
+        "text": "The Oberoi Group is a hotel company whose head office is in Delhi."
+      }
+    ]
+  },
+  {
+    "qid": "5a82171f5542990a1d231f4a",
+    "difficulty": "medium",
+    "question": "What nationality was James Henry Miller's wife?",
+    "gold_answer": "American",
+    "context": [
+      {
+        "title": "Ewan MacColl",
+        "text": "Ewan MacColl was born as James Henry Miller and was married to Peggy Seeger."
+      },
+      {
+        "title": "Peggy Seeger",
+        "text": "Peggy Seeger is an American folk singer."
+      }
+    ]
+  },
+  {
+    "qid": "hp19",
+    "difficulty": "medium",
+    "question": "Which capital city belongs to the country associated with Sigmund Freud, who is known for psychoanalysis?",
+    "gold_answer": "Vienna",
+    "context": [
+      {
+        "title": "Sigmund Freud",
+        "text": "Sigmund Freud is associated with Austria and is known for psychoanalysis."
+      },
+      {
+        "title": "Austria",
+        "text": "The capital city of Austria is Vienna."
+      }
+    ]
+  },
+  {
+    "qid": "hp20",
+    "difficulty": "easy",
+    "question": "What country has Paris as its capital, the country associated with Claude Monet, who is known for Water Lilies?",
+    "gold_answer": "France",
+    "context": [
+      {
+        "title": "Claude Monet",
+        "text": "Claude Monet is associated with France and is known for Water Lilies."
+      },
+      {
+        "title": "Paris",
+        "text": "Paris is the capital city of France."
+      }
+    ]
+  },
+  {
+    "qid": "hp21",
+    "difficulty": "easy",
+    "question": "What river flows through the capital of the country associated with Vincent van Gogh, who is known for Starry Night?",
+    "gold_answer": "Amstel",
+    "context": [
+      {
+        "title": "Vincent van Gogh",
+        "text": "Vincent van Gogh is associated with Netherlands and is known for Starry Night."
+      },
+      {
+        "title": "Amsterdam",
+        "text": "Amsterdam is the capital city of Netherlands and is located on the Amstel."
+      }
+    ]
+  },
+  {
+    "qid": "hp22",
+    "difficulty": "medium",
+    "question": "Which capital city belongs to the country associated with Rembrandt, who is known for The Night Watch?",
+    "gold_answer": "Amsterdam",
+    "context": [
+      {
+        "title": "Rembrandt",
+        "text": "Rembrandt is associated with Netherlands and is known for The Night Watch."
+      },
+      {
+        "title": "Netherlands",
+        "text": "The capital city of Netherlands is Amsterdam."
+      }
+    ]
+  },
+  {
+    "qid": "hp23",
+    "difficulty": "medium",
+    "question": "What country has Mexico City as its capital, the country associated with Frida Kahlo, who is known for The Two Fridas?",
+    "gold_answer": "Mexico",
+    "context": [
+      {
+        "title": "Frida Kahlo",
+        "text": "Frida Kahlo is associated with Mexico and is known for The Two Fridas."
+      },
+      {
+        "title": "Mexico City",
+        "text": "Mexico City is the capital city of Mexico."
+      }
+    ]
+  },
+  {
+    "qid": "hp24",
+    "difficulty": "medium",
+    "question": "What river flows through the capital of the country associated with Diego Velazquez, who is known for Las Meninas?",
+    "gold_answer": "Manzanares",
+    "context": [
+      {
+        "title": "Diego Velazquez",
+        "text": "Diego Velazquez is associated with Spain and is known for Las Meninas."
+      },
+      {
+        "title": "Madrid",
+        "text": "Madrid is the capital city of Spain and is located on the Manzanares."
+      }
+    ]
+  },
+  {
+    "qid": "hp25",
+    "difficulty": "hard",
+    "question": "Which capital city belongs to the country associated with Johann Sebastian Bach, who is known for Brandenburg Concertos?",
+    "gold_answer": "Berlin",
+    "context": [
+      {
+        "title": "Johann Sebastian Bach",
+        "text": "Johann Sebastian Bach is associated with Germany and is known for Brandenburg Concertos."
+      },
+      {
+        "title": "Germany",
+        "text": "The capital city of Germany is Berlin."
+      }
+    ]
+  },
+  {
+    "qid": "hp26",
+    "difficulty": "easy",
+    "question": "What country has Moscow as its capital, the country associated with Pyotr Ilyich Tchaikovsky, who is known for Swan Lake?",
+    "gold_answer": "Russia",
+    "context": [
+      {
+        "title": "Pyotr Ilyich Tchaikovsky",
+        "text": "Pyotr Ilyich Tchaikovsky is associated with Russia and is known for Swan Lake."
+      },
+      {
+        "title": "Moscow",
+        "text": "Moscow is the capital city of Russia."
+      }
+    ]
+  },
+  {
+    "qid": "hp27",
+    "difficulty": "hard",
+    "question": "What river flows through the capital of the country associated with Igor Stravinsky, who is known for The Firebird?",
+    "gold_answer": "Moskva",
+    "context": [
+      {
+        "title": "Igor Stravinsky",
+        "text": "Igor Stravinsky is associated with Russia and is known for The Firebird."
+      },
+      {
+        "title": "Moscow",
+        "text": "Moscow is the capital city of Russia and is located on the Moskva."
+      }
+    ]
+  },
+  {
+    "qid": "hp28",
+    "difficulty": "easy",
+    "question": "Which capital city belongs to the country associated with Gustav Klimt, who is known for The Kiss?",
+    "gold_answer": "Vienna",
+    "context": [
+      {
+        "title": "Gustav Klimt",
+        "text": "Gustav Klimt is associated with Austria and is known for The Kiss."
+      },
+      {
+        "title": "Austria",
+        "text": "The capital city of Austria is Vienna."
+      }
+    ]
+  },
+  {
+    "qid": "hp29",
+    "difficulty": "easy",
+    "question": "What country has Oslo as its capital, the country associated with Edvard Munch, who is known for The Scream?",
+    "gold_answer": "Norway",
+    "context": [
+      {
+        "title": "Edvard Munch",
+        "text": "Edvard Munch is associated with Norway and is known for The Scream."
+      },
+      {
+        "title": "Oslo",
+        "text": "Oslo is the capital city of Norway."
+      }
+    ]
+  },
+  {
+    "qid": "hp30",
+    "difficulty": "medium",
+    "question": "What river flows through the capital of the country associated with Henrik Ibsen, who is known for A Doll's House?",
+    "gold_answer": "Akerselva",
+    "context": [
+      {
+        "title": "Henrik Ibsen",
+        "text": "Henrik Ibsen is associated with Norway and is known for A Doll's House."
+      },
+      {
+        "title": "Oslo",
+        "text": "Oslo is the capital city of Norway and is located on the Akerselva."
+      }
+    ]
+  },
+  {
+    "qid": "hp31",
+    "difficulty": "easy",
+    "question": "Which capital city belongs to the country associated with Miguel de Cervantes, who is known for Don Quixote?",
+    "gold_answer": "Madrid",
+    "context": [
+      {
+        "title": "Miguel de Cervantes",
+        "text": "Miguel de Cervantes is associated with Spain and is known for Don Quixote."
+      },
+      {
+        "title": "Spain",
+        "text": "The capital city of Spain is Madrid."
+      }
+    ]
+  },
+  {
+    "qid": "hp32",
+    "difficulty": "easy",
+    "question": "What country has Rome as its capital, the country associated with Dante Alighieri, who is known for The Divine Comedy?",
+    "gold_answer": "Italy",
+    "context": [
+      {
+        "title": "Dante Alighieri",
+        "text": "Dante Alighieri is associated with Italy and is known for The Divine Comedy."
+      },
+      {
+        "title": "Rome",
+        "text": "Rome is the capital city of Italy."
+      }
+    ]
+  },
+  {
+    "qid": "hp33",
+    "difficulty": "hard",
+    "question": "What river flows through the capital of the country associated with Homer, who is known for the Iliad?",
+    "gold_answer": "Ilisos",
+    "context": [
+      {
+        "title": "Homer",
+        "text": "Homer is associated with Greece and is known for the Iliad."
+      },
+      {
+        "title": "Athens",
+        "text": "Athens is the capital city of Greece and is located on the Ilisos."
+      }
+    ]
+  },
+  {
+    "qid": "hp34",
+    "difficulty": "medium",
+    "question": "Which capital city belongs to the country associated with Aristotle, who is known for the Lyceum?",
+    "gold_answer": "Athens",
+    "context": [
+      {
+        "title": "Aristotle",
+        "text": "Aristotle is associated with Greece and is known for the Lyceum."
+      },
+      {
+        "title": "Greece",
+        "text": "The capital city of Greece is Athens."
+      }
+    ]
+  },
+  {
+    "qid": "hp35",
+    "difficulty": "medium",
+    "question": "What country has Athens as its capital, the country associated with Plato, who is known for the Academy?",
+    "gold_answer": "Greece",
+    "context": [
+      {
+        "title": "Plato",
+        "text": "Plato is associated with Greece and is known for the Academy."
+      },
+      {
+        "title": "Athens",
+        "text": "Athens is the capital city of Greece."
+      }
+    ]
+  },
+  {
+    "qid": "hp36",
+    "difficulty": "hard",
+    "question": "What river flows through the capital of the country associated with Socrates, who is known for classical philosophy?",
+    "gold_answer": "Ilisos",
+    "context": [
+      {
+        "title": "Socrates",
+        "text": "Socrates is associated with Greece and is known for classical philosophy."
+      },
+      {
+        "title": "Athens",
+        "text": "Athens is the capital city of Greece and is located on the Ilisos."
+      }
+    ]
+  },
+  {
+    "qid": "hp37",
+    "difficulty": "hard",
+    "question": "Which capital city belongs to the country associated with Euclid, who is known for Elements?",
+    "gold_answer": "Cairo",
+    "context": [
+      {
+        "title": "Euclid",
+        "text": "Euclid is associated with Egypt and is known for Elements."
+      },
+      {
+        "title": "Egypt",
+        "text": "The capital city of Egypt is Cairo."
+      }
+    ]
+  },
+  {
+    "qid": "hp38",
+    "difficulty": "hard",
+    "question": "What country has Rome as its capital, the country associated with Archimedes, who is known for the principle of buoyancy?",
+    "gold_answer": "Italy",
+    "context": [
+      {
+        "title": "Archimedes",
+        "text": "Archimedes is associated with Italy and is known for the principle of buoyancy."
+      },
+      {
+        "title": "Rome",
+        "text": "Rome is the capital city of Italy."
+      }
+    ]
+  },
+  {
+    "qid": "hp39",
+    "difficulty": "medium",
+    "question": "What river flows through the capital of the country associated with Pythagoras, who is known for the Pythagorean theorem?",
+    "gold_answer": "Ilisos",
+    "context": [
+      {
+        "title": "Pythagoras",
+        "text": "Pythagoras is associated with Greece and is known for the Pythagorean theorem."
+      },
+      {
+        "title": "Athens",
+        "text": "Athens is the capital city of Greece and is located on the Ilisos."
+      }
+    ]
+  },
+  {
+    "qid": "hp40",
+    "difficulty": "hard",
+    "question": "Which capital city belongs to the country associated with Herodotus, who is known for The Histories?",
+    "gold_answer": "Athens",
+    "context": [
+      {
+        "title": "Herodotus",
+        "text": "Herodotus is associated with Greece and is known for The Histories."
+      },
+      {
+        "title": "Greece",
+        "text": "The capital city of Greece is Athens."
+      }
+    ]
+  },
+  {
+    "qid": "hp41",
+    "difficulty": "easy",
+    "question": "What country has London as its capital, the country associated with Jane Austen, who is known for Pride and Prejudice?",
+    "gold_answer": "England",
+    "context": [
+      {
+        "title": "Jane Austen",
+        "text": "Jane Austen is associated with England and is known for Pride and Prejudice."
+      },
+      {
+        "title": "London",
+        "text": "London is the capital city of England."
+      }
+    ]
+  },
+  {
+    "qid": "hp42",
+    "difficulty": "easy",
+    "question": "What river flows through the capital of the country associated with Charles Dickens, who is known for Oliver Twist?",
+    "gold_answer": "Thames",
+    "context": [
+      {
+        "title": "Charles Dickens",
+        "text": "Charles Dickens is associated with England and is known for Oliver Twist."
+      },
+      {
+        "title": "London",
+        "text": "London is the capital city of England and is located on the Thames."
+      }
+    ]
+  },
+  {
+    "qid": "hp43",
+    "difficulty": "hard",
+    "question": "Which capital city belongs to the country associated with George Orwell, who is known for Nineteen Eighty-Four?",
+    "gold_answer": "New Delhi",
+    "context": [
+      {
+        "title": "George Orwell",
+        "text": "George Orwell is associated with India and is known for Nineteen Eighty-Four."
+      },
+      {
+        "title": "India",
+        "text": "The capital city of India is New Delhi."
+      }
+    ]
+  },
+  {
+    "qid": "hp44",
+    "difficulty": "medium",
+    "question": "What country has London as its capital, the country associated with Virginia Woolf, who is known for Mrs Dalloway?",
+    "gold_answer": "England",
+    "context": [
+      {
+        "title": "Virginia Woolf",
+        "text": "Virginia Woolf is associated with England and is known for Mrs Dalloway."
+      },
+      {
+        "title": "London",
+        "text": "London is the capital city of England."
+      }
+    ]
+  },
+  {
+    "qid": "hp45",
+    "difficulty": "medium",
+    "question": "What river flows through the capital of the country associated with Emily Dickinson, who is known for Because I could not stop for Death?",
+    "gold_answer": "Potomac",
+    "context": [
+      {
+        "title": "Emily Dickinson",
+        "text": "Emily Dickinson is associated with United States and is known for Because I could not stop for Death."
+      },
+      {
+        "title": "Washington, D.C.",
+        "text": "Washington, D.C. is the capital city of United States and is located on the Potomac."
+      }
+    ]
+  },
+  {
+    "qid": "hp46",
+    "difficulty": "easy",
+    "question": "Which capital city belongs to the country associated with Mark Twain, who is known for Adventures of Huckleberry Finn?",
+    "gold_answer": "Washington, D.C.",
+    "context": [
+      {
+        "title": "Mark Twain",
+        "text": "Mark Twain is associated with United States and is known for Adventures of Huckleberry Finn."
+      },
+      {
+        "title": "United States",
+        "text": "The capital city of United States is Washington, D.C.."
+      }
+    ]
+  },
+  {
+    "qid": "hp47",
+    "difficulty": "medium",
+    "question": "What country has Washington, D.C. as its capital, the country associated with Ernest Hemingway, who is known for The Old Man and the Sea?",
+    "gold_answer": "United States",
+    "context": [
+      {
+        "title": "Ernest Hemingway",
+        "text": "Ernest Hemingway is associated with United States and is known for The Old Man and the Sea."
+      },
+      {
+        "title": "Washington, D.C.",
+        "text": "Washington, D.C. is the capital city of United States."
+      }
+    ]
+  },
+  {
+    "qid": "hp48",
+    "difficulty": "easy",
+    "question": "What river flows through the capital of the country associated with F. Scott Fitzgerald, who is known for The Great Gatsby?",
+    "gold_answer": "Potomac",
+    "context": [
+      {
+        "title": "F. Scott Fitzgerald",
+        "text": "F. Scott Fitzgerald is associated with United States and is known for The Great Gatsby."
+      },
+      {
+        "title": "Washington, D.C.",
+        "text": "Washington, D.C. is the capital city of United States and is located on the Potomac."
+      }
+    ]
+  },
+  {
+    "qid": "hp49",
+    "difficulty": "medium",
+    "question": "Which capital city belongs to the country associated with Gabriel Garcia Marquez, who is known for One Hundred Years of Solitude?",
+    "gold_answer": "Bogota",
+    "context": [
+      {
+        "title": "Gabriel Garcia Marquez",
+        "text": "Gabriel Garcia Marquez is associated with Colombia and is known for One Hundred Years of Solitude."
+      },
+      {
+        "title": "Colombia",
+        "text": "The capital city of Colombia is Bogota."
+      }
+    ]
+  },
+  {
+    "qid": "hp50",
+    "difficulty": "easy",
+    "question": "What country has Paris as its capital, the country associated with Jules Verne, who is known for Twenty Thousand Leagues Under the Seas?",
+    "gold_answer": "France",
+    "context": [
+      {
+        "title": "Jules Verne",
+        "text": "Jules Verne is associated with France and is known for Twenty Thousand Leagues Under the Seas."
+      },
+      {
+        "title": "Paris",
+        "text": "Paris is the capital city of France."
+      }
+    ]
+  },
+  {
+    "qid": "hp51",
+    "difficulty": "easy",
+    "question": "What river flows through the capital of the country associated with Victor Hugo, who is known for Les Miserables?",
+    "gold_answer": "Seine",
+    "context": [
+      {
+        "title": "Victor Hugo",
+        "text": "Victor Hugo is associated with France and is known for Les Miserables."
+      },
+      {
+        "title": "Paris",
+        "text": "Paris is the capital city of France and is located on the Seine."
+      }
+    ]
+  },
+  {
+    "qid": "hp52",
+    "difficulty": "medium",
+    "question": "Which capital city belongs to the country associated with Moliere, who is known for Tartuffe?",
+    "gold_answer": "Paris",
+    "context": [
+      {
+        "title": "Moliere",
+        "text": "Moliere is associated with France and is known for Tartuffe."
+      },
+      {
+        "title": "France",
+        "text": "The capital city of France is Paris."
+      }
+    ]
+  },
+  {
+    "qid": "hp53",
+    "difficulty": "medium",
+    "question": "What country has Paris as its capital, the country associated with Voltaire, who is known for Candide?",
+    "gold_answer": "France",
+    "context": [
+      {
+        "title": "Voltaire",
+        "text": "Voltaire is associated with France and is known for Candide."
+      },
+      {
+        "title": "Paris",
+        "text": "Paris is the capital city of France."
+      }
+    ]
+  },
+  {
+    "qid": "hp54",
+    "difficulty": "hard",
+    "question": "What river flows through the capital of the country associated with Jean-Jacques Rousseau, who is known for The Social Contract?",
+    "gold_answer": "Aare",
+    "context": [
+      {
+        "title": "Jean-Jacques Rousseau",
+        "text": "Jean-Jacques Rousseau is associated with Switzerland and is known for The Social Contract."
+      },
+      {
+        "title": "Bern",
+        "text": "Bern is the capital city of Switzerland and is located on the Aare."
+      }
+    ]
+  },
+  {
+    "qid": "hp55",
+    "difficulty": "medium",
+    "question": "Which capital city belongs to the country associated with Rene Descartes, who is known for analytic geometry?",
+    "gold_answer": "Paris",
+    "context": [
+      {
+        "title": "Rene Descartes",
+        "text": "Rene Descartes is associated with France and is known for analytic geometry."
+      },
+      {
+        "title": "France",
+        "text": "The capital city of France is Paris."
+      }
+    ]
+  },
+  {
+    "qid": "hp56",
+    "difficulty": "easy",
+    "question": "What country has Paris as its capital, the country associated with Blaise Pascal, who is known for Pascal's law?",
+    "gold_answer": "France",
+    "context": [
+      {
+        "title": "Blaise Pascal",
+        "text": "Blaise Pascal is associated with France and is known for Pascal's law."
+      },
+      {
+        "title": "Paris",
+        "text": "Paris is the capital city of France."
+      }
+    ]
+  },
+  {
+    "qid": "hp57",
+    "difficulty": "medium",
+    "question": "What river flows through the capital of the country associated with Antoine Lavoisier, who is known for modern chemistry?",
+    "gold_answer": "Seine",
+    "context": [
+      {
+        "title": "Antoine Lavoisier",
+        "text": "Antoine Lavoisier is associated with France and is known for modern chemistry."
+      },
+      {
+        "title": "Paris",
+        "text": "Paris is the capital city of France and is located on the Seine."
+      }
+    ]
+  },
+  {
+    "qid": "hp58",
+    "difficulty": "medium",
+    "question": "Which capital city belongs to the country associated with Michael Faraday, who is known for electromagnetic induction?",
+    "gold_answer": "London",
+    "context": [
+      {
+        "title": "Michael Faraday",
+        "text": "Michael Faraday is associated with England and is known for electromagnetic induction."
+      },
+      {
+        "title": "England",
+        "text": "The capital city of England is London."
+      }
+    ]
+  },
+  {
+    "qid": "hp59",
+    "difficulty": "hard",
+    "question": "What country has Edinburgh as its capital, the country associated with James Clerk Maxwell, who is known for electromagnetism?",
+    "gold_answer": "Scotland",
+    "context": [
+      {
+        "title": "James Clerk Maxwell",
+        "text": "James Clerk Maxwell is associated with Scotland and is known for electromagnetism."
+      },
+      {
+        "title": "Edinburgh",
+        "text": "Edinburgh is the capital city of Scotland."
+      }
+    ]
+  },
+  {
+    "qid": "hp60",
+    "difficulty": "easy",
+    "question": "What river flows through the capital of the country associated with Ada Lovelace, who is known for the first computer algorithm?",
+    "gold_answer": "Thames",
+    "context": [
+      {
+        "title": "Ada Lovelace",
+        "text": "Ada Lovelace is associated with England and is known for the first computer algorithm."
+      },
+      {
+        "title": "London",
+        "text": "London is the capital city of England and is located on the Thames."
+      }
+    ]
+  },
+  {
+    "qid": "hp61",
+    "difficulty": "easy",
+    "question": "Which capital city belongs to the country associated with Alan Turing, who is known for the Turing machine?",
+    "gold_answer": "London",
+    "context": [
+      {
+        "title": "Alan Turing",
+        "text": "Alan Turing is associated with England and is known for the Turing machine."
+      },
+      {
+        "title": "England",
+        "text": "The capital city of England is London."
+      }
+    ]
+  },
+  {
+    "qid": "hp62",
+    "difficulty": "easy",
+    "question": "What country has London as its capital, the country associated with Tim Berners-Lee, who is known for the World Wide Web?",
+    "gold_answer": "England",
+    "context": [
+      {
+        "title": "Tim Berners-Lee",
+        "text": "Tim Berners-Lee is associated with England and is known for the World Wide Web."
+      },
+      {
+        "title": "London",
+        "text": "London is the capital city of England."
+      }
+    ]
+  },
+  {
+    "qid": "hp63",
+    "difficulty": "medium",
+    "question": "What river flows through the capital of the country associated with Grace Hopper, who is known for the first compiler?",
+    "gold_answer": "Potomac",
+    "context": [
+      {
+        "title": "Grace Hopper",
+        "text": "Grace Hopper is associated with United States and is known for the first compiler."
+      },
+      {
+        "title": "Washington, D.C.",
+        "text": "Washington, D.C. is the capital city of United States and is located on the Potomac."
+      }
+    ]
+  },
+  {
+    "qid": "hp64",
+    "difficulty": "medium",
+    "question": "Which capital city belongs to the country associated with Katherine Johnson, who is known for orbital mechanics calculations?",
+    "gold_answer": "Washington, D.C.",
+    "context": [
+      {
+        "title": "Katherine Johnson",
+        "text": "Katherine Johnson is associated with United States and is known for orbital mechanics calculations."
+      },
+      {
+        "title": "United States",
+        "text": "The capital city of United States is Washington, D.C.."
+      }
+    ]
+  },
+  {
+    "qid": "hp65",
+    "difficulty": "easy",
+    "question": "What country has Washington, D.C. as its capital, the country associated with Neil Armstrong, who is known for the first moonwalk?",
+    "gold_answer": "United States",
+    "context": [
+      {
+        "title": "Neil Armstrong",
+        "text": "Neil Armstrong is associated with United States and is known for the first moonwalk."
+      },
+      {
+        "title": "Washington, D.C.",
+        "text": "Washington, D.C. is the capital city of United States."
+      }
+    ]
+  },
+  {
+    "qid": "hp66",
+    "difficulty": "easy",
+    "question": "What river flows through the capital of the country associated with Yuri Gagarin, who is known for the first human spaceflight?",
+    "gold_answer": "Moskva",
+    "context": [
+      {
+        "title": "Yuri Gagarin",
+        "text": "Yuri Gagarin is associated with Russia and is known for the first human spaceflight."
+      },
+      {
+        "title": "Moscow",
+        "text": "Moscow is the capital city of Russia and is located on the Moskva."
+      }
+    ]
+  },
+  {
+    "qid": "hp67",
+    "difficulty": "medium",
+    "question": "Which capital city belongs to the country associated with Valentina Tereshkova, who is known for the first woman in space?",
+    "gold_answer": "Moscow",
+    "context": [
+      {
+        "title": "Valentina Tereshkova",
+        "text": "Valentina Tereshkova is associated with Russia and is known for the first woman in space."
+      },
+      {
+        "title": "Russia",
+        "text": "The capital city of Russia is Moscow."
+      }
+    ]
+  },
+  {
+    "qid": "hp68",
+    "difficulty": "medium",
+    "question": "What country has Washington, D.C. as its capital, the country associated with Sally Ride, who is known for the first American woman in space?",
+    "gold_answer": "United States",
+    "context": [
+      {
+        "title": "Sally Ride",
+        "text": "Sally Ride is associated with United States and is known for the first American woman in space."
+      },
+      {
+        "title": "Washington, D.C.",
+        "text": "Washington, D.C. is the capital city of United States."
+      }
+    ]
+  },
+  {
+    "qid": "hp69",
+    "difficulty": "medium",
+    "question": "What river flows through the capital of the country associated with Amelia Earhart, who is known for solo transatlantic flight?",
+    "gold_answer": "Potomac",
+    "context": [
+      {
+        "title": "Amelia Earhart",
+        "text": "Amelia Earhart is associated with United States and is known for solo transatlantic flight."
+      },
+      {
+        "title": "Washington, D.C.",
+        "text": "Washington, D.C. is the capital city of United States and is located on the Potomac."
+      }
+    ]
+  },
+  {
+    "qid": "hp70",
+    "difficulty": "easy",
+    "question": "Which capital city belongs to the country associated with Wright brothers, who is known for the first powered airplane?",
+    "gold_answer": "Washington, D.C.",
+    "context": [
+      {
+        "title": "Wright brothers",
+        "text": "Wright brothers is associated with United States and is known for the first powered airplane."
+      },
+      {
+        "title": "United States",
+        "text": "The capital city of United States is Washington, D.C.."
+      }
+    ]
+  },
+  {
+    "qid": "hp71",
+    "difficulty": "easy",
+    "question": "What country has Pretoria as its capital, the country associated with Nelson Mandela, who is known for the end of apartheid?",
+    "gold_answer": "South Africa",
+    "context": [
+      {
+        "title": "Nelson Mandela",
+        "text": "Nelson Mandela is associated with South Africa and is known for the end of apartheid."
+      },
+      {
+        "title": "Pretoria",
+        "text": "Pretoria is the capital city of South Africa."
+      }
+    ]
+  },
+  {
+    "qid": "hp72",
+    "difficulty": "easy",
+    "question": "What river flows through the capital of the country associated with Mahatma Gandhi, who is known for nonviolent resistance?",
+    "gold_answer": "Yamuna",
+    "context": [
+      {
+        "title": "Mahatma Gandhi",
+        "text": "Mahatma Gandhi is associated with India and is known for nonviolent resistance."
+      },
+      {
+        "title": "New Delhi",
+        "text": "New Delhi is the capital city of India and is located on the Yamuna."
+      }
+    ]
+  },
+  {
+    "qid": "hp73",
+    "difficulty": "easy",
+    "question": "Which capital city belongs to the country associated with Martin Luther King Jr., who is known for the I Have a Dream speech?",
+    "gold_answer": "Washington, D.C.",
+    "context": [
+      {
+        "title": "Martin Luther King Jr.",
+        "text": "Martin Luther King Jr. is associated with United States and is known for the I Have a Dream speech."
+      },
+      {
+        "title": "United States",
+        "text": "The capital city of United States is Washington, D.C.."
+      }
+    ]
+  },
+  {
+    "qid": "hp74",
+    "difficulty": "medium",
+    "question": "What country has Washington, D.C. as its capital, the country associated with Abraham Lincoln, who is known for the Emancipation Proclamation?",
+    "gold_answer": "United States",
+    "context": [
+      {
+        "title": "Abraham Lincoln",
+        "text": "Abraham Lincoln is associated with United States and is known for the Emancipation Proclamation."
+      },
+      {
+        "title": "Washington, D.C.",
+        "text": "Washington, D.C. is the capital city of United States."
+      }
+    ]
+  },
+  {
+    "qid": "hp75",
+    "difficulty": "easy",
+    "question": "What river flows through the capital of the country associated with George Washington, who is known for the first U.S. president?",
+    "gold_answer": "Potomac",
+    "context": [
+      {
+        "title": "George Washington",
+        "text": "George Washington is associated with United States and is known for the first U.S. president."
+      },
+      {
+        "title": "Washington, D.C.",
+        "text": "Washington, D.C. is the capital city of United States and is located on the Potomac."
+      }
+    ]
+  },
+  {
+    "qid": "hp76",
+    "difficulty": "medium",
+    "question": "Which capital city belongs to the country associated with Winston Churchill, who is known for wartime leadership of the UK?",
+    "gold_answer": "London",
+    "context": [
+      {
+        "title": "Winston Churchill",
+        "text": "Winston Churchill is associated with England and is known for wartime leadership of the UK."
+      },
+      {
+        "title": "England",
+        "text": "The capital city of England is London."
+      }
+    ]
+  },
+  {
+    "qid": "hp77",
+    "difficulty": "easy",
+    "question": "What country has Paris as its capital, the country associated with Napoleon Bonaparte, who is known for the Napoleonic Code?",
+    "gold_answer": "France",
+    "context": [
+      {
+        "title": "Napoleon Bonaparte",
+        "text": "Napoleon Bonaparte is associated with France and is known for the Napoleonic Code."
+      },
+      {
+        "title": "Paris",
+        "text": "Paris is the capital city of France."
+      }
+    ]
+  },
+  {
+    "qid": "hp78",
+    "difficulty": "medium",
+    "question": "What river flows through the capital of the country associated with Julius Caesar, who is known for the Gallic Wars?",
+    "gold_answer": "Tiber",
+    "context": [
+      {
+        "title": "Julius Caesar",
+        "text": "Julius Caesar is associated with Italy and is known for the Gallic Wars."
+      },
+      {
+        "title": "Rome",
+        "text": "Rome is the capital city of Italy and is located on the Tiber."
+      }
+    ]
+  },
+  {
+    "qid": "hp79",
+    "difficulty": "hard",
+    "question": "Which capital city belongs to the country associated with Cleopatra, who is known for the Ptolemaic Kingdom?",
+    "gold_answer": "Cairo",
+    "context": [
+      {
+        "title": "Cleopatra",
+        "text": "Cleopatra is associated with Egypt and is known for the Ptolemaic Kingdom."
+      },
+      {
+        "title": "Egypt",
+        "text": "The capital city of Egypt is Cairo."
+      }
+    ]
+  },
+  {
+    "qid": "hp80",
+    "difficulty": "hard",
+    "question": "What country has Cairo as its capital, the country associated with Tutankhamun, who is known for the 18th Dynasty of Egypt?",
+    "gold_answer": "Egypt",
+    "context": [
+      {
+        "title": "Tutankhamun",
+        "text": "Tutankhamun is associated with Egypt and is known for the 18th Dynasty of Egypt."
+      },
+      {
+        "title": "Cairo",
+        "text": "Cairo is the capital city of Egypt."
+      }
+    ]
+  },
+  {
+    "qid": "hp81",
+    "difficulty": "medium",
+    "question": "What river flows through the capital of the country associated with Genghis Khan, who is known for the Mongol Empire?",
+    "gold_answer": "Tuul",
+    "context": [
+      {
+        "title": "Genghis Khan",
+        "text": "Genghis Khan is associated with Mongolia and is known for the Mongol Empire."
+      },
+      {
+        "title": "Ulaanbaatar",
+        "text": "Ulaanbaatar is the capital city of Mongolia and is located on the Tuul."
+      }
+    ]
+  },
+  {
+    "qid": "hp82",
+    "difficulty": "hard",
+    "question": "Which capital city belongs to the country associated with Kublai Khan, who is known for the Yuan dynasty?",
+    "gold_answer": "Beijing",
+    "context": [
+      {
+        "title": "Kublai Khan",
+        "text": "Kublai Khan is associated with China and is known for the Yuan dynasty."
+      },
+      {
+        "title": "China",
+        "text": "The capital city of China is Beijing."
+      }
+    ]
+  },
+  {
+    "qid": "hp83",
+    "difficulty": "medium",
+    "question": "What country has Beijing as its capital, the country associated with Confucius, who is known for Confucianism?",
+    "gold_answer": "China",
+    "context": [
+      {
+        "title": "Confucius",
+        "text": "Confucius is associated with China and is known for Confucianism."
+      },
+      {
+        "title": "Beijing",
+        "text": "Beijing is the capital city of China."
+      }
+    ]
+  },
+  {
+    "qid": "hp84",
+    "difficulty": "hard",
+    "question": "What river flows through the capital of the country associated with Laozi, who is known for Daoism?",
+    "gold_answer": "Yongding",
+    "context": [
+      {
+        "title": "Laozi",
+        "text": "Laozi is associated with China and is known for Daoism."
+      },
+      {
+        "title": "Beijing",
+        "text": "Beijing is the capital city of China and is located on the Yongding."
+      }
+    ]
+  },
+  {
+    "qid": "hp85",
+    "difficulty": "easy",
+    "question": "Which capital city belongs to the country associated with Sun Tzu, who is known for The Art of War?",
+    "gold_answer": "Beijing",
+    "context": [
+      {
+        "title": "Sun Tzu",
+        "text": "Sun Tzu is associated with China and is known for The Art of War."
+      },
+      {
+        "title": "China",
+        "text": "The capital city of China is Beijing."
+      }
+    ]
+  },
+  {
+    "qid": "hp86",
+    "difficulty": "hard",
+    "question": "What country has Tokyo as its capital, the country associated with Murasaki Shikibu, who is known for The Tale of Genji?",
+    "gold_answer": "Japan",
+    "context": [
+      {
+        "title": "Murasaki Shikibu",
+        "text": "Murasaki Shikibu is associated with Japan and is known for The Tale of Genji."
+      },
+      {
+        "title": "Tokyo",
+        "text": "Tokyo is the capital city of Japan."
+      }
+    ]
+  },
+  {
+    "qid": "hp87",
+    "difficulty": "medium",
+    "question": "What river flows through the capital of the country associated with Akira Kurosawa, who is known for Seven Samurai?",
+    "gold_answer": "Sumida",
+    "context": [
+      {
+        "title": "Akira Kurosawa",
+        "text": "Akira Kurosawa is associated with Japan and is known for Seven Samurai."
+      },
+      {
+        "title": "Tokyo",
+        "text": "Tokyo is the capital city of Japan and is located on the Sumida."
+      }
+    ]
+  },
+  {
+    "qid": "hp88",
+    "difficulty": "easy",
+    "question": "Which capital city belongs to the country associated with Hayao Miyazaki, who is known for Spirited Away?",
+    "gold_answer": "Tokyo",
+    "context": [
+      {
+        "title": "Hayao Miyazaki",
+        "text": "Hayao Miyazaki is associated with Japan and is known for Spirited Away."
+      },
+      {
+        "title": "Japan",
+        "text": "The capital city of Japan is Tokyo."
+      }
+    ]
+  },
+  {
+    "qid": "hp_hard_001",
+    "difficulty": "hard",
+    "question": "Which scientist proposed the theory whose key mechanism was independently conceived by the naturalist who traveled on HMS Beagle?",
+    "gold_answer": "Alfred Russel Wallace",
+    "context": [
+      {
+        "title": "Charles Darwin",
+        "text": "Charles Darwin was an English naturalist who traveled on HMS Beagle. He independently conceived the mechanism of natural selection."
+      },
+      {
+        "title": "Natural selection",
+        "text": "Natural selection is the key mechanism of the theory of evolution."
+      },
+      {
+        "title": "Theory of evolution",
+        "text": "The theory of evolution by natural selection was independently proposed by Alfred Russel Wallace and Charles Darwin."
+      }
+    ],
+    "reason_hard": "Requires linking a voyage clue (HMS Beagle) to Darwin, then abstracting from mechanism to theory, then recovering the co-proposer rather than the more obvious Darwin."
+  },
+  {
+    "qid": "hp_hard_002",
+    "difficulty": "hard",
+    "question": "What empire ruled the city where the Hagia Sophia was built before it later became Istanbul?",
+    "gold_answer": "Byzantine Empire",
+    "context": [
+      {
+        "title": "Hagia Sophia",
+        "text": "Hagia Sophia was built in Constantinople."
+      },
+      {
+        "title": "Constantinople",
+        "text": "Constantinople later became known as Istanbul."
+      },
+      {
+        "title": "Byzantine Empire",
+        "text": "Constantinople was the capital of the Byzantine Empire."
+      }
+    ],
+    "reason_hard": "Uses a historical name change and requires resolving the earlier name of Istanbul before identifying the ruling empire."
+  },
+  {
+    "qid": "hp_hard_003",
+    "difficulty": "hard",
+    "question": "Which language family includes the language spoken by the author of Don Quixote?",
+    "gold_answer": "Romance",
+    "context": [
+      {
+        "title": "Don Quixote",
+        "text": "Don Quixote was written by Miguel de Cervantes."
+      },
+      {
+        "title": "Miguel de Cervantes",
+        "text": "Miguel de Cervantes was a Spanish writer."
+      },
+      {
+        "title": "Spanish language",
+        "text": "Spanish is a Romance language."
+      }
+    ],
+    "reason_hard": "Entity chain is simple, but the final answer is a language family rather than the language itself, which often triggers shallow-model mistakes."
+  },
+  {
+    "qid": "hp_hard_004",
+    "difficulty": "hard",
+    "question": "What mountain range contains the volcano overlooking the bay where Naples is located?",
+    "gold_answer": "Apennines",
+    "context": [
+      {
+        "title": "Naples",
+        "text": "Naples is located on the Bay of Naples."
+      },
+      {
+        "title": "Bay of Naples",
+        "text": "Mount Vesuvius overlooks the Bay of Naples."
+      },
+      {
+        "title": "Mount Vesuvius",
+        "text": "Mount Vesuvius is part of the Apennine mountain system."
+      }
+    ],
+    "reason_hard": "Requires chaining city → bay → volcano → mountain range, with the intermediate geographic relation easy to lose."
+  },
+  {
+    "qid": "hp_hard_005",
+    "difficulty": "hard",
+    "question": "Which university employed the physicist who developed the equations unified by the theory later extended by general relativity's creator?",
+    "gold_answer": "University of Cambridge",
+    "context": [
+      {
+        "title": "James Clerk Maxwell",
+        "text": "James Clerk Maxwell developed Maxwell's equations and was a professor at the University of Cambridge."
+      },
+      {
+        "title": "Electromagnetism",
+        "text": "Maxwell's equations unified electricity and magnetism into the theory of electromagnetism."
+      },
+      {
+        "title": "Albert Einstein",
+        "text": "Albert Einstein, creator of general relativity, extended important parts of classical physics through relativity."
+      }
+    ],
+    "reason_hard": "The wording is deliberately dense and distracts with Einstein; the correct path still runs through Maxwell to his university."
+  },
+  {
+    "qid": "hp_hard_006",
+    "difficulty": "hard",
+    "question": "What sea borders the country whose ancient rock-cut city is Petra?",
+    "gold_answer": "Dead Sea",
+    "context": [
+      {
+        "title": "Petra",
+        "text": "Petra is an ancient rock-cut city in Jordan."
+      },
+      {
+        "title": "Jordan",
+        "text": "Jordan borders the Dead Sea to the west."
+      },
+      {
+        "title": "Dead Sea",
+        "text": "The Dead Sea is a salt lake bordered by Jordan and Israel."
+      }
+    ],
+    "reason_hard": "This looks familiar but remains challenging because the surface form hides the country and asks for a bordering body of water, not the location itself."
+  },
+  {
+    "qid": "hp_hard_007",
+    "difficulty": "hard",
+    "question": "Which ocean borders the nation whose capital city lies near Machu Picchu's country of origin?",
+    "gold_answer": "Pacific Ocean",
+    "context": [
+      {
+        "title": "Machu Picchu",
+        "text": "Machu Picchu is located in Peru."
+      },
+      {
+        "title": "Peru",
+        "text": "The capital city of Peru is Lima."
+      },
+      {
+        "title": "Pacific Ocean",
+        "text": "Peru borders the Pacific Ocean."
+      }
+    ],
+    "reason_hard": "The question paraphrases Peru indirectly through Machu Picchu and capital-city wording, which increases indirection for smaller models."
+  },
+  {
+    "qid": "hp_hard_008",
+    "difficulty": "hard",
+    "question": "Which instrument was mainly played by the composer of the set of concertos that includes 'Spring' and 'Winter'?",
+    "gold_answer": "violin",
+    "context": [
+      {
+        "title": "The Four Seasons",
+        "text": "The Four Seasons is a set of concertos that includes 'Spring' and 'Winter'."
+      },
+      {
+        "title": "Antonio Vivaldi",
+        "text": "Antonio Vivaldi composed The Four Seasons and was a virtuoso violinist."
+      },
+      {
+        "title": "Violin",
+        "text": "The violin is a bowed string instrument."
+      }
+    ],
+    "reason_hard": "Uses named subparts of a work instead of the work title in the question, making retrieval weaker for compact models."
+  },
+  {
+    "qid": "hp_hard_009",
+    "difficulty": "hard",
+    "question": "What river runs through the capital of the country where the Eiffel Tower stands?",
+    "gold_answer": "River Seine",
+    "context": [
+      {
+        "title": "Eiffel Tower",
+        "text": "The Eiffel Tower is located in France."
+      },
+      {
+        "title": "France",
+        "text": "The capital of France is Paris."
+      },
+      {
+        "title": "Paris",
+        "text": "Paris is traversed by the River Seine."
+      }
+    ],
+    "reason_hard": "Requires a three-hop geographic chain with landmark → country → capital → river, which is harder than direct factual lookup."
+  },
+  {
+    "qid": "hp_hard_010",
+    "difficulty": "hard",
+    "question": "Which religion was followed by the emperor who built the amphitheater whose city is also home to the Pantheon?",
+    "gold_answer": "Roman polytheism",
+    "context": [
+      {
+        "title": "Colosseum",
+        "text": "The Colosseum is an amphitheater in Rome commissioned by Emperor Vespasian."
+      },
+      {
+        "title": "Pantheon",
+        "text": "The Pantheon is also located in Rome."
+      },
+      {
+        "title": "Vespasian",
+        "text": "Vespasian was a Roman emperor who followed Roman polytheism."
+      }
+    ],
+    "reason_hard": "The city clue and monument clue create distractors; the answer is a belief system associated with the emperor, not a place or person."
+  }
+]
